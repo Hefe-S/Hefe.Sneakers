@@ -1,5 +1,4 @@
 # Hefe.Sneakers
-</head>
 <body>
     <p><strong>Zapatillas de calidad  Unisex Linea Premium importadas de brasil  </strong></p>
     <p><strong>Venta Online</strong></p>
